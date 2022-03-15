@@ -14,6 +14,5 @@ int main()
 
   cout << "Product = " << product;    
     
-  return 0;
-  
+  return 0;  
 }  
